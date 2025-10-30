@@ -1,6 +1,6 @@
 # SentAi — Intelligent Customer Feedback Analysis
 
-Made by **Priyanshi Sharma (GLA University)**  •  GitHub: [`Priyanshi250/SentAi`](https://github.com/Priyanshi250/SentAi)
+Made by **Priyanshi Sharma (GLA University)**  •  GitHub: [`Priyanshi250/SentAi`](https://github.com/Priyanshi250/SentAi) •  Streamlit: [`Streamlit/SentAi`](https://sentai.streamlit.app/)
 
 SentAi is a modern Streamlit app that transforms raw customer feedback into actionable insights. Upload a CSV, pick your review column, and get AI‑generated sentiment, themes, and improvement suggestions—plus quick visual summaries and a downloadable PDF report.
 
